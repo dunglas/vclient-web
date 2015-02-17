@@ -1,0 +1,2 @@
+sqlite3 /home/pi/vclient-web/vito.db "INSERT INTO log(date, temp_ext, temp_ecs, temp_eau_cc1, temp_eau_cc2, mode_nr) VALUES(datetime('now'), $1, $2, $3, $4, '$5');"
+

@@ -1,0 +1,6 @@
+getTempExt
+getTempECS
+getTempEauCC1
+getTempEauCC2
+getModeNR
+

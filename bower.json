@@ -1,0 +1,25 @@
+{
+  "name": "vclient-web",
+  "version": "0.1.0",
+  "description": "Vclient web interface",
+  "keywords": [
+    "vclient"
+  ],
+  "authors": [
+    "Kévin Dunglas <dunglas@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://dunglas.fr",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highstock-release": "~2.1.0"
+  }
+}
+
